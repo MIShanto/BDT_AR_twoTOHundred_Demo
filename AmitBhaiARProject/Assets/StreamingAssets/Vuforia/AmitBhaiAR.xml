@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="frontHundred" size="10.000000 4.886364" />
+    <ImageTarget name="backHundred" size="10.000000 4.900568" />
+    <ImageTarget name="backfifty" size="10.000000 4.913366" />
+    <ImageTarget name="frontfifty" size="10.000000 4.748428" />
+    <ImageTarget name="frontTwenty" size="10.000000 5.129032" />
+    <ImageTarget name="backTwenty" size="10.000000 5.184405" />
+    <ImageTarget name="backFive" size="10.000000 5.483871" />
+    <ImageTarget name="5Taka_Bangladesh_VS" size="10.000000 5.132812" />
+    <ImageTarget name="backTwo" size="10.000000 6.287356" />
+    <ImageTarget name="frontTwo" size="10.000000 6.066667" />
+    <ImageTarget name="backTen" size="10.000000 4.900000" />
+    <ImageTarget name="frontTen" size="10.000000 4.918033" />
+  </Tracking>
+</QCARConfig>
